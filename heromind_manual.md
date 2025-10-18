@@ -32,9 +32,9 @@ Add these once you've established consistent action routines:
 | Module | Purpose | Key Benefit |
 |******--|*********|************-|
 | **Life Foundation** | Capture your life purpose, values, and limiting beliefs | Brings clarity to who you are and breaks down barriers to growth |
+| **My Heroes** | AI-powered mentorship from history's greatest minds | Provides wisdom, accountability, and perspective for every stage of your journey |
 | **Life Blueprint** | Design your vision across all 12 life categories with purpose and vision boards | Creates a comprehensive, vivid roadmap for your ideal life in every dimension |
 | **Quests** | Complete transformation system for major goals | Turns dreams into structured journeys with daily practices |
-| **My Heroes** | AI-powered conversations with inspiring figures | Provides mentorship and expanded perspective |
 | **Journal** | Emotional processing and self-awareness | Builds emotional intelligence and clarity |
 
 **The Heart of Transformation: Quests**
@@ -177,6 +177,7 @@ The work isn't to "battle" your limiting beliefs like enemies or to endlessly "w
  You simply need to become SO CONSCIOUS of your unconscious patterns that you never go unconscious to them again.
 
 This means:
+
 - Noticing the repetitive thoughts without judging them
 - Observing when you slip into familiar emotional states (resentment, anxiety, unworthiness)
 - Catching yourself in the act of being the old self
@@ -235,6 +236,7 @@ Every time you train your body to surrender to your mind, you're breaking the ad
 You cannot live intentionally if your nervous system is stuck in survival mode. Here's what's happening biologically for 70% of people:
 
 Living in survival mode (stress, fear, rushing, reacting):
+
 - Brain firing incoherently like a lightning storm
 - Heart beating irregularly, out of rhythm
 - Energy pulled from healing, growth, creativity
@@ -247,6 +249,7 @@ system.
 Dispenza's formula: Relax your heart + Awaken your brain = Transformation
 
 Meditation isn't "quieting your mind"—it's:
+
 - Slowing your brain waves (Beta → Alpha → Theta) to access the subconscious
 - Broadening your focus instead of narrowing it (focus on "nothing")
 - Training yourself to stay present instead of forecasting from past memories
@@ -290,11 +293,11 @@ But here's Dispenza's critical warning: The most dangerous moment in transformat
 People meditate for a week, then check their bank account, their health, their relationships—and when nothing has changed externally, they lose
 faith. But here's what they don't understand:
 
-Your brain scans will show coherence before your bank account does.Your biology will change before your circumstances do.Your gene expression will 
-shift before your diagnosis does.
+Your brain scans will show coherence before your bank account does. Your biology will change before your circumstances do. Your gene expression will shift before your diagnosis does.
 
 The people who heal terminal illnesses? Many of them meditated for 6-12 months with ZERO external evidence. But they kept showing up because they
 felt DIFFERENT inside. They noticed:
+
 - Sleeping better
 - Less pain
 - More energy
@@ -302,6 +305,7 @@ felt DIFFERENT inside. They noticed:
 - Feeling joy for no external reason
 
 Document THESE shifts first:
+
 - When did you catch yourself going unconscious and choose differently?
 - When did you respond to conflict from your new identity instead of old patterns?
 - When did you feel elevated emotions even though circumstances didn't change?
@@ -318,6 +322,33 @@ These seven pillars aren't motivational concepts—they're a precise methodology
 mind, and stepping into the version of you that already exists in the quantum field.
 
 You're not optimizing the old you. You're becoming someone completely new.
+
+**My Heroes Overview: Your Personal Board of Advisors**
+
+What if you could consult Marcus Aurelius when facing a difficult decision? Ask Maya Angelou about creative blocks? Get Steve Jobs' perspective on your business strategy? Discuss meditation practices directly with Dr. Joe Dispenza himself?
+
+The My Heroes module makes this possible through AI-powered conversations that authentically channel the wisdom, personality, and perspective of history's greatest minds—24/7, judgment-free, personalized to YOUR specific challenges.
+
+Unlike generic AI chatbots, your Heroes are deeply personalized. You define their philosophy, experiences, and communication style. The AI responds authentically from their documented worldview, challenging you the way THEY would, offering wisdom specific to YOUR situation.
+
+**A Day-One Companion for Your Entire Journey:**
+
+- **Stage 1 (Building Routines)**: Ask James Clear why you're struggling with consistency. Consult Tony Robbins about motivation.
+- **Stage 2 (Purpose Discovery)**: Discuss your Life Purpose with Viktor Frankl or Joseph Campbell. Process limiting beliefs with Carl Jung or Brené Brown.
+- **Stage 3 (Quest Activation)**: Assemble a Quest Council—Arnold Schwarzenegger for discipline, Marcus Aurelius for resilience, Maya Angelou for self-compassion.
+- **Stage 4 (Integrated Living)**: Regular wisdom check-ins with your personal board of advisors across all life dimensions.
+
+**Conversation Example:**
+
+*With James Clear about struggling with a new routine:*
+
+> **You**: "I keep skipping my morning meditation. I know it's important, but I can't seem to make it stick."
+>
+> **James**: "You're making a classic mistake—starting too big. What if your meditation routine was just three conscious breaths? That's it. You'd feel silly NOT doing it, right? The goal isn't to meditate for 20 minutes. The goal is to become someone who shows up. Once you're there, breathing, momentum takes over. But lower the barrier. Make it so small you can't say no. What's the smallest version of this practice you could commit to?"
+
+This is what sets HeroMind apart from every other productivity or life design system. You're not alone in your transformation—you have the wisest minds in history available anytime you need guidance, accountability, or a fresh perspective.
+
+You'll encounter the full My Heroes module later in this manual, but understand this: transformation accelerates when you have the right mentors. They're available from DAY ONE to support whatever stage you're in.
 
 **Quests Overview**
 
@@ -344,96 +375,55 @@ Fear thrives in analysis. Action destroys it. The four Foundation Modules—Task
 
 ### Task Module: From Fear to Action
 
-The Task module transforms abstract intentions into concrete commitments by forcing one crucial decision: when will you actually do this? Every task gets a specific day, making procrastination impossible.
+**The Morning Task Review: Your Daily Reset**
+
+Most people wake up overwhelmed, reactive, scattered. Their task lists are graveyards of good intentions buried in "someday" thinking. HeroMind forces a different approach.
+
+Every morning, you perform a simple ritual that transforms fear into action:
+
+1. **Review today and the next few days** - See what's coming in your trended view
+2. **Star your 2-3 MIGs** (Most Important Goals) for today—these rise to the top
+3. **Review overdue tasks** - Decide: do today, reschedule, or delete
+4. **Timebox your MIGs on your calendar** (optional but powerful)
+5. **Execute with focus**
+
+This daily practice is how you go from paralyzed to purposeful. When you consciously choose what matters most every single morning, procrastination has nowhere to hide. Throughout your day, new tasks arrive—you immediately assign them to a specific day. Tasks you don't complete roll forward automatically. Nothing gets lost in hidden lists.
 
 **The Philosophy: Every Task Gets a Day**
 
-Traditional to-do apps let tasks live indefinitely in abstract lists. HeroMind forces a crucial decision: **When will you actually do this?** This simple shift transforms vague intentions into concrete commitments.
+Traditional to-do apps let tasks drift indefinitely in abstract lists. HeroMind forces one crucial decision: **When will you actually do this?**
 
-When every task has a specific day, procrastination has nowhere to hide. "Someday" thinking transforms into "today" action.
+Every task gets assigned to a specific day. When every task has a date, procrastination has nowhere to hide. "Someday" thinking transforms into "today" action.
 
-**The Trended Day View: Your Visual Planning Command Center**
+**Key Features**
 
-HeroMind's signature task interface shows each day side by side in a horizontal timeline, with two columns per day—#Work and #Personal. This trended view lets you see your entire week at a glance, making it effortless to balance commitments across both domains and plan with clarity.
-
-Above each day, simply click the plus icon to add tasks directly to that specific date. This frictionless capture ensures that when inspiration or obligations strike, you immediately assign them to a day rather than letting them pile up in abstract "someday" lists.  An intuitive drag and drop interface allows you to easily move tasks to future days. 
+- **Trended Daily View** - See multiple days side-by-side with #Work and #Personal columns
+- **Automatic Rollover** - Incomplete tasks move forward automatically, forcing conscious decisions
+- **Task Inbox** - Rapid capture space for processing into specific days
+- **Projects with Sections** - Organize complex initiatives with logical groupings
+- **Tasks Assigned to Others** - Delegate and track team member responsibilities
+- **Quest Integration** - Quest tasks from your Massive Action Plan appear alongside daily commitments
+- **Routine Integration** - Daily routines appear in your task view, reminding you that tasks AND habits create transformation
 
 **Intelligent Task Organization**
 
 Within each day, tasks automatically organize into a powerful prioritization system:
 
-1. **Starred Tasks** (Top Priority) - Tasks you've starred rise to the top, ensuring your Most Important Tasks (MIGs) are always visible. Star the 2-3 tasks you MUST complete today.
+1. **Starred Tasks** (Top Priority) - Your MIGs rise to the top, always visible
+2. **Overdue Tasks** (Needs Attention) - Rolled-forward tasks you must address
+3. **Today's Tasks** (Active Work) - Everything assigned to this day
+4. **Daily Routines** (Foundation) - Routine completion status integrated into your view
 
-2. **Overdue Tasks** (Needs Attention) - Tasks from previous days that rolled forward appear here, making it impossible to ignore what still needs completion.
+This grouping ensures you always know what matters most, what's fallen behind, and what needs your attention today—all in one clean, scannable view.
 
-3. **Today's Tasks** (Active Work) - All tasks assigned to this day appear here, ready for execution.
+**The Evening Review: Celebrate and Prepare**
 
-4. **Daily Routines** (Foundation) - Your routines appear at the bottom as the last grouping, showing completion status and providing quick access to mark them done. This integration reminds you that tasks AND routines together create transformation.
-
-This grouping system ensures you always know what matters most, what's fallen behind, and what needs your attention today—all in one clean, scannable view.
-
-**Task Inbox: Flexible Capture**
-
-While we strongly recommend assigning tasks to specific days using the trended view, HeroMind also provides a Task Inbox for rapid capture when you're not ready to commit to a date. The inbox serves as a holding space—but the power comes from regularly processing it and giving each task a day. Tasks with days get done. Tasks in the inbox drift.
-
-**Quest Integration: Tasks as Transformation Tools**
-
-Tasks aren't just items to check off—they're integral to your Quests. When you activate a Quest, you create Quest-specific tasks as part of your Massive Action Plan. These tasks appear in your daily view alongside your regular commitments, ensuring Quest progress happens through daily action, not sporadic bursts.
-
-A Quest might generate tasks like "Research personal trainers," "Buy meal prep containers," or "Schedule baseline health checkup"—each assigned to specific days, each moving your transformation forward systematically.
-
-**Projects with Sections: Structured Complexity**
-
-For larger initiatives that require organized sub-tasks, HeroMind supports full project management with sections. Break down complex projects into logical groupings:
-
-*Example: "Website Redesign" Project*
-- **Section: Research & Planning** - Competitive analysis, user interviews, wireframe sketches
-- **Section: Design** - Homepage mockup, interior pages, mobile responsive design
-- **Section: Development** - Frontend build, backend integration, testing
-- **Section: Launch** - Final QA, content migration, go-live
-
-Each section contains its own tasks, all with assigned dates, all integrated into your daily trended view. Projects provide structure without sacrificing the core philosophy: every task still gets a day.
-
-**Team Management & Delegation: Tasks Assigned to Others**
-
-Leadership and collaboration require delegating effectively. HeroMind lets you enter your Team members, then assign delegated tasks to specific individuals. These tasks move to a dedicated "Tasks Assigned to Others" view, where you can track:
-
-- What you've delegated to whom
-- Due dates for delegated work
-- Status of team member responsibilities
-- Follow-up reminders
-
-This keeps your personal task views clean while ensuring nothing delegated falls through the cracks. You maintain visibility without clutter, and your team members' responsibilities are clearly defined.
-
-**Working with #Work and #Personal**
-
-HeroMind's dual-column system recognizes a fundamental truth: you are one integrated person with both professional and personal dimensions. The #Work and #Personal separation ensures neither domain crowds out the other.
-
-- **#Work Column**: Professional projects, career development, business relationships, strategic initiatives, client deliverables, team management
-
-- **#Personal Column**: Health routines, relationship nurturing, learning pursuits, creative projects, spiritual practices, family commitments, personal growth
-
-- **Integration Points**: Morning routines that energize both domains, evening reviews that celebrate progress in both areas, values-based decision making that honors your whole life
-
-Throughout your day, you can see both columns side by side, making intentional choices about where to invest your energy. Some days tilt toward work intensity. Some days prioritize personal transformation. Most days require balanced attention to both. The trended day view makes this balance visible and manageable.
-
-**The Daily Practice: From Chaos to Clarity**
-
-Your morning task planning ritual:
-1. Review your trended day view - see today and the next several days
-2. Star your 2-3 MIGs (Most Important Goals) for today—these rise to the top
-3. Review overdue tasks - decide: do today, reschedule, or delete
-4. Confirm today's tasks are realistic given your energy and available time
-5. Glance ahead at upcoming days - are they balanced? Any scheduling conflicts?
-
-Throughout the day, check off tasks as you complete them. Feel the micro-celebration of progress. Watch overdue tasks shrink. See starred MIGs get done. Notice routines accumulating votes for your identity transformation.
-
-Your evening review:
+Your evening task review:
 
 - Celebrate completed tasks - every checkmark is a win
 - Review what didn't get done - reschedule with honesty (was it truly important?)
 - Process Task Inbox items - give each one a specific day or delete
-- Prep tomorrow's starred MIGs so you wake up with clarity
+- Prep tomorrow's MIGs so you wake up with clarity
 
 **Automatic Rollover: Nothing Falls Through the Cracks**
 
@@ -474,6 +464,15 @@ HeroMind is built on a different principle, inspired by James Clear's *Atomic Ha
 
 Each routine is designed to be practiced daily or a specified number of times per week (e.g., 3 days/week, 5 days/week, 6 days/week). You set how many times per day each routine should be completed (1x/day, 3x/day, 8x/day, etc.).
 
+**Key Features**
+
+- **Flexible Scheduling** - Daily or X times per week (3x, 5x, 6x, etc.)
+- **Multiple Completions** - Set routines for 1x/day, 3x/day, 8x/day, or any frequency
+- **Routine Library** - Pre-designed individual routines with descriptions and recommended frequencies
+- **Routine Collection Library** - Curated collections for specific goals (Core, Energy, Confidence, Evening Wind-down)
+- **Quest Integration** - Quest Routines (temporary, tactical) vs Category Routines (permanent, identity)
+- **Task Integration** - Routines appear in your daily task view with completion status
+
 **The Magic of the Click**
 
 Simply click on a routine to increment your completion counter for that day. That single click represents a vote for your future identity. It's visual proof that you showed up. Over time, your streak builds, and missing becomes harder than doing.
@@ -481,14 +480,6 @@ Simply click on a routine to increment your completion counter for that day. Tha
 **Start Small, Stay Consistent, Watch Transformation Happen**
 
 Don't make your routines impressive. Make them *doable*. Make them so easy you'd feel silly not doing them. Then do them every single day. After a few weeks, your brain will begin to expect them. After a few months, they'll feel automatic. After a year, they'll be who you are.
-
-**Built-in Routine Library**
-HeroMind includes an extensive library of pre-designed routines and curated routine collections to help you get started quickly:
-
-- **Routine Library**: Browse individual routines like "Box Breathing" (Focus Routine), “Sunlight Exposure", or “Daily Stretching" (Overall Health Routine). Each routine includes a description, suggested time of day, estimated duration, and recommended frequency.
-- **Routine Collection Library**: Access curated collections designed for specific goals like "Core Routine" (fundamental habits), "Energy Routine" (maximize daily energy), "Confidence Routine" (build self-assurance), and "Evening Wind-down" (peaceful end-of-day practices).
-
-Simply browse the libraries and add routines that align with your transformation goals, or create your own custom routines from scratch.
 
 **Morning and Evening Rituals: The Foundation**
 
@@ -531,9 +522,7 @@ Build your daily practices around these fundamental areas:
 
 ### Lists Module: Organizing Your Interests
 
-Lists bring structure to the overwhelming and turn aspirations into organized, trackable collections. Simple but powerful, they help you see progress and maintain motivation across every area of your life.
-
-Lists are a deceptively powerful tool for organizing every aspect of your life—from simple collections to complex goal tracking. They provide structure for your aspirations, making the overwhelming feel manageable.
+Lists bring structure to the overwhelming and turn aspirations into organized, trackable collections. Simple but powerful, they help you see progress and maintain motivation across every area of your life—from simple collections to complex goal tracking.
 
 **What You Can Track**
 
@@ -546,11 +535,12 @@ Lists are a deceptively powerful tool for organizing every aspect of your life�
 - Travel destinations
 - Any collections that matter to you
 
-**Powerful Features**
+**Key Features**
 
-- **Easy Import**: Have a text file with multiple items? Simply import it and HeroMind will automatically create list items from each line—perfect for quickly building out lists from notes, emails, or existing documents.
-
-- **Flexible Organization**: Filter your lists to focus on what matters right now. Sort items by priority, date added, or custom order. Tag items for easy categorization and retrieval.
+- **Easy Import** - Import text files and automatically create list items from each line
+- **Flexible Organization** - Filter, sort by priority/date, and use custom ordering
+- **Tagging** - Categorize and retrieve items easily with tags
+- **Progress Tracking** - See completion status and build momentum
 
 **Building Momentum**
 
@@ -558,25 +548,16 @@ Lists help you see progress and maintain motivation. Start with fun, easy lists 
 
 ### Sticky Notes Module: Capturing Mental Flow
 
-Your mind generates hundreds of thoughts daily—brilliant ideas, urgent reminders, fleeting insights. Sticky Notes captures them all before they vanish, freeing your mental energy for what matters most.
+Your mind generates hundreds of thoughts daily—brilliant ideas, urgent reminders, fleeting insights. When you try to hold them all in your head, mental energy drains away and ideas vanish. Sticky Notes is your frictionless capture system that frees your mind to focus on what matters most right now.
 
-Your mind generates hundreds of thoughts daily—ideas, reminders, insights, worries, tasks. When you try to hold them all in your head, mental energy drains away and brilliant ideas vanish. Sticky Notes is your frictionless capture system that frees your mind to focus on what matters most right now.
+**Key Features**
 
-**The Digital Mental Inbox**
-
-Provides instant capture for the hundreds of thoughts, ideas, and reminders your mind generates daily.
-
-**Organized Categories**
-
-- **#Work**: Meeting follow-ups, project ideas, professional insights
-- **#Personal**: Errands, growth insights, relationship reminders
-- **#Urgent**: Time-sensitive items. Make sure to move tasks into the tasks module.
-- **#Ideas**: Future possibilities, learning interests, innovations
-
-**From Capture to Action**
-
-- **Daily Processing**: Convert actionable items to scheduled tasks
-- **Weekly Integration**: Review for patterns and promote worthy ideas to concrete planning
+- **#Work** - Meeting follow-ups, project ideas, professional insights
+- **#Personal** - Errands, growth insights, relationship reminders
+- **#Urgent** - Time-sensitive items requiring quick action
+- **#Ideas** - Future possibilities, learning interests, innovations
+- **Daily Processing** - Convert actionable items to scheduled tasks
+- **Weekly Integration** - Review for patterns and promote worthy ideas to concrete planning
 
 ## Part II: Personal Development Deep Dive
 
@@ -592,13 +573,7 @@ Both approaches work. The key is recognizing that these aren't separate systems�
 
 ### Foundation: Purpose, Values & Limiting Beliefs
 
-Before you can design your ideal life, you need clarity on who you are and what's been holding you back. This module builds your transformation foundation: purpose, values, and the limiting beliefs you'll transform into fuel.
-
-**Build the Core Elements for Your Intentional Life**
-
-Your life is a reflection of your innermost thoughts and feelings. The journey to becoming your future self begins here. This is your foundation for living a life of purpose, joy, and deliberate creation.
-
-The Foundation module integrates three essential elements that shape your identity and direction:
+Your life is a reflection of your innermost thoughts and feelings. Before you can design your ideal life, you need clarity on who you are and what's been holding you back. The Foundation module integrates three essential elements that shape your identity and direction:
 
 **1. Life Purpose - Your North Star**
 Your Life Purpose guides all decisions, Quest selection, and daily practices. Without this foundation, goals may lack clear direction and growth can feel scattered. HeroMind's AI-powered purpose discovery process helps you articulate why you're here and what you're meant to contribute through targeted questions about your gifts, values, and desired impact. The system generates sample purpose statements that resonate with who you truly are, which you can refine until they feel authentic.
@@ -614,17 +589,13 @@ Most people struggle with the same limiting beliefs for years because they only 
 
 ### Life Blueprint: Designing Your Extraordinary Life
 
-Most people drift through life chasing society's definition of success. Your Life Blueprint is different—it's your personal vision for who you're becoming across all 12 dimensions of human experience, designed on your terms.
-
-**The Life Blueprint Framework**
-
 Most people live someone else's blueprint—chasing the corner office, the impressive title, the vacation photos that generate likes—without ever asking if these goals even belong to them. Your Life Blueprint is different: a comprehensive vision for who you're becoming across every dimension of existence (career, relationships, spiritual depth, emotional intelligence, contribution), captured and actively pursued through systematic daily practice.
 
 This isn't a vision board you look at once and forget. It's a living system that transforms you from someone who drifts to someone who designs. The Life Blueprint empowers you to thrive across all 12 dimensions of human experience without sacrificing any area for another—creating a life that feels extraordinary from the inside because it's authentically, unapologetically yours.
 
 #### The 12 Life Categories
 
-Each category represents a fundamental dimension of human experience. HeroMind provides a complete system for designing, visualizing, and living your ideal life in each area.  Don’t get overwhelmed, you don’t have to address all of these at once.
+Each category represents a fundamental dimension of human experience. HeroMind provides a complete system for designing, visualizing, and living your ideal life in each area. Don't get overwhelmed, you don't have to address all of these at once.
 
 
 - **Health & Fitness** - Your wellness foundation & vitality blueprint
@@ -835,7 +806,7 @@ Wisdom from history's greatest minds, available anytime you need guidance. The M
 
 Imagine having Marcus Aurelius as your personal advisor when facing difficult decisions, Frida Kahlo guiding you through creative blocks, or Steve Jobs helping with your business strategy. The My Heroes module makes this possible through AI-powered conversations that channel the wisdom, personality, and perspective of the figures you most admire.
 
-**When to Start**: After establishing basic task and routine consistency, when you're ready for deeper guidance and perspective.
+**When to Start**: Available from DAY ONE. Whether you're building your first routine or living full integration, your Heroes provide wisdom, accountability, and perspective for whatever stage you're in.
 
 #### The Psychology Behind Heroes
 
@@ -1216,13 +1187,9 @@ These aren't separate practices—they're one integrated system for breaking the
 
 **Your Commitment: Progress, Not Perfection**
 
-You will not execute this system flawlessly. You will miss routines. You will skip meditation. You will let tasks roll over. You will doubt yourself. You will encounter limiting beliefs you didn't know existed.
+You will not execute this system flawlessly. You will miss routines. You will skip meditation. You will let tasks roll over. You will doubt yourself. You will encounter limiting beliefs you didn't know existed. This is all part of the journey.
 
-This is all part of the journey.
-
-HeroMind is designed for progress, not perfection. The power lies not in flawless execution but in the ability to return to practice quickly and without self-judgment. Every time you return—after a day, a week, a month—you strengthen your capacity for conscious living.
-
-The villain in your story isn't failure. It's giving up. Keep returning. Keep practicing. Keep architecting.
+HeroMind is designed for progress, not perfection. The power lies not in flawless execution but in the ability to return to practice quickly and without self-judgment. Every time you return—after a day, a week, a month—you strengthen your capacity for conscious living. The villain in your story isn't failure. It's giving up.
 
 **Your Next Steps: Start Today**
 
@@ -1244,14 +1211,8 @@ The villain in your story isn't failure. It's giving up. Keep returning. Keep pr
 
 Not waiting for perfect conditions. Not waiting for more time, more money, more confidence. It's waiting for your decision to stop unconsciously repeating yesterday and start consciously designing today.
 
-Most people will keep repeating the same day. They'll keep hoping things work out. They'll keep letting circumstances dictate their experience.
-
-You're different. You're holding this manual because you're ready to become the architect.
+Most people will keep repeating the same day. They'll keep hoping things work out. They'll keep letting circumstances dictate their experience. You're different. You're holding this manual because you're ready to become the architect.
 
 Your extraordinary life is not a destination—it's a way of traveling. A daily practice. An integrated system. A deliberate choice to live with purpose, vision, action, and elevated emotion.
 
-**Stop repeating yesterday.**
-
-**Design the life you're meant to live.**
-
-**Then live it—deliberately, powerfully, one intentional day at a time.**
+**Stop repeating yesterday. Design the life you're meant to live. Then live it—deliberately, powerfully, one intentional day at a time.**
